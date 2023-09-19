@@ -1,0 +1,12 @@
+// Import the LinkedList class
+import java.util.LinkedList;
+public class Main {
+  public static void main(String[] args) {
+    LinkedList<String> names = new LinkedList<String>();
+    names.add("shubhanshu");
+    names.add("nikhil");
+    names.add("khaniya");
+    names.add("suraj");
+    System.out.println(names);
+  }
+}
